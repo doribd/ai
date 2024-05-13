@@ -1,3 +1,5 @@
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/dorbendov)
+
 # My Spring AI Trail
 My goal was to practice, so I read material on the subject and included links to the sources. I also watched a video on YouTube.
 
