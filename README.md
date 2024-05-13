@@ -1,5 +1,19 @@
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/dorbendov)](https://twitter.com/intent/follow?screen_name=dorbendov)
+
+
 # My Spring AI Trail
-My goal was to practice, so I read material on the subject and included links to the sources. I also watched a video on YouTube.
+The goal was to practice. I read on spring ai and also watched YouTube all described below.
+
+### Technological stack
+* Java 17 (OpenJDK)
+* Spring Boot 3.2.5 
+* Spring AI (using OpenAI)
+* Postgresql DB + PGVector (Postgres extension for vector db) 0.8.1
+* 
+
+### Required before you start
+* Generate a dedicated OpenAPI key using their platform (see below).
+* Locate your pdf within pdfs folder or use mine.  
 
 ### Guides
 
@@ -20,6 +34,3 @@ The following are the guides I used:
 ### Open AI Platform
 
 * [Platform usage view](https://platform.openai.com/usage)
-
-
-
