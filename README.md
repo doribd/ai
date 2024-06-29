@@ -1,4 +1,5 @@
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/dorbendov)](https://twitter.com/intent/follow?screen_name=dorbendov)
+[![Known Vulnerabilities](https://snyk.io/test/github/doribd/ai/badge.svg)](https://snyk.io/test/github/doribd/ai)
 
 # My Spring AI Trail
 The goal was to practice. I read on spring ai and also watched YouTube all described below.
