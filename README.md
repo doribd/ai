@@ -1,13 +1,12 @@
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/dorbendov)](https://twitter.com/intent/follow?screen_name=dorbendov)
-[![Known Vulnerabilities](https://snyk.io/test/github/doribd/ai/badge.svg)](https://snyk.io/test/github/doribd/ai)
 
 # My Spring AI Trail
 The goal was to practice. I read on spring ai and also watched YouTube all described below.
 
 ### Technological stack
-* Java 21 (OpenJDK)
-* Spring Boot 3.3.1 (Current latest stable)
-* Spring AI (using OpenAI current latest 0.8.1)
+* Java 25 (OpenJDK)
+* Spring Boot 3.4.2 (Latest stable release)
+* Spring AI 1.0.3 (Latest stable as of October 2025)
 * Postgresql DB + PGVector ([Postgres Vector extension](https://www.postgresql.org/about/news/pgvector-050-released-2700/))
 
 ### Before you start
