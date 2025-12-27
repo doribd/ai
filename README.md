@@ -5,8 +5,8 @@ The goal was to practice. I read on spring ai and also watched YouTube all descr
 
 ### Technological stack
 * Java 25 (OpenJDK)
-* Spring Boot 3.4.2 (Latest stable release)
-* Spring AI 1.0.3 (Latest stable as of October 2025)
+* Spring Boot 3.5.9 (Latest stable release as of December 2025)
+* Spring AI 1.1.1 (Latest stable as of December 2025)
 * Postgresql DB + PGVector ([Postgres Vector extension](https://www.postgresql.org/about/news/pgvector-050-released-2700/))
 
 ### Before you start
